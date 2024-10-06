@@ -1,0 +1,6 @@
+/vendor
+/runtime
+tmp
+/web/upload
+/web/uploads
+/web/assets
